@@ -10,3 +10,6 @@ The original idea came from the context switching required when taking a look at
 
 This is a simple bash function that overloads the cd() function. Download the file, put it somewhere and then make sure to include
 `source {{ PATH_TO_WHERE_YOU_PUT_CD.SH }}` inside of your `.bash_profile`
+
+Or you can give it a test whirl, if you're feeling totally trusting and crazy:
+`git clone https://github.com/jeremiak/context-switcher && cd context-switcher && source ./cd.sh && cd .`
