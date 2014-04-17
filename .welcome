@@ -1,0 +1,16 @@
+                 _            _                  _ _       _
+  ___ ___  _ __ | |_ _____  _| |_   _____      _(_) |_ ___| |__   ___ _ __
+ / __/ _ \| '_ \| __/ _ \ \/ / __| / __\ \ /\ / / | __/ __| '_ \ / _ \ '__|
+| (_| (_) | | | | ||  __/>  <| |_  \__ \\ V  V /| | || (__| | | |  __/ |
+ \___\___/|_| |_|\__\___/_/\_\\__| |___/ \_/\_/ |_|\__\___|_| |_|\___|_|
+
+
+So this is the type of stuff that context-switcher will show you
+
+It will look for a .welcome file in the directory and then display that information right here :)
+
+If you don't have a .welcome, it will subsequently look for a README.md and display that.
+
+If you don't have that, well then this ain't for your directory.
+
+PS: It is advised that you add .welcome to your global gitignore
